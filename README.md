@@ -9,8 +9,9 @@ I am an enthusiastic application developer specializing in web technologies, par
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+NextJs, TailwindCSS
 
+<!---
 
 ## Related
 
@@ -49,3 +50,6 @@ This project is used by the following companies:
 - Company 1
 - Company 2
 
+
+
+-->
