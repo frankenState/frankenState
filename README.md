@@ -88,5 +88,3 @@ I am an enthusiastic application developer specializing in web technologies, par
 - Reading self-help books
 
 ---
-
-Feel free to adjust any details or sections as needed.
