@@ -1,87 +1,92 @@
-## Hi there 👋
+Sure, based on your resume, here’s a draft of your README file:
 
-# Project Title
+---
 
-A brief description of what this project does and who it's for
+# Frank Lou A. Ubay
 
+Salvacion, Panabo City, Davao del Norte | 09487631500 | [ubayfranklou@gmail.com](mailto:ubayfranklou@gmail.com) | [LinkedIn](https://linkedin.com/in/frank-lou-ubay)
 
-# Project Title
+## Profile
+I am an enthusiastic application developer specializing in web technologies, particularly React Native and Next.js. I enjoy creating innovative, effective, and standards-compliant applications. I am constantly exploring new technologies and approaches due to my strong desire to learn and keep up with the rapidly evolving tech industry.
 
-A brief description of what this project does and who it's for
+## Experience
 
+### React Native Developer | Contract Project | April 2024
+- Utilized React Native, Expo, and Firebase.
+- Developed “Smart Shopper,” an app that helps users manage their shopping and monitor expenses.
+- Features included user registration, barcode scanning, image uploads to Firebase storage, and APK generation for Android devices.
 
-## Deployment
+### Web Developer | Oanda Coinpass | February 2023 (Freelance)
+- Utilized Next.js, TailwindCSS, and Figma.
+- Designed professional pages and mock-ups using Figma.
+- Enhanced features for Coinpass’s main web platform.
+- Lead developer for the rebranding project to Oanda Crypto and the Affiliate Platform.
 
-To deploy this project run
+### Web Developer | Fwen.io | June 2022 – December 2022
+- Utilized Next.js, Firebase, and TailwindCSS.
+- Enhanced UI/UX using TailwindCSS.
+- Developed email confirmation modules, authentication, and feature enhancements.
 
-```bash
-  npm run deploy
-```
+### College Instructor | Davao del Norte State College | August 2019 – June 2023
+- Taught courses in Basic Accounting, Java, Database Management, and Web Programming.
+- Designed and developed courses and instructional materials aligning with current industry standards.
+- Served as quality assurance during student project presentations.
 
+## Speakership Experience
 
-## 🚀 About Me
-I'm a full stack developer...
+### Image Processing and Time Series Forecasting | October 2-3, 2023 | DNSC
+- Discussed image processing with TensorFlow.js and time series forecasting with LSTM models for fourth-year IT students.
 
+### City Government of Tagum IT Seminar | March 28-30, 2023 | Tagum New City Hall
+- Conducted demonstrations on using Vue.js and UI plugins to develop high-quality user interfaces.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+### Full Stack Web and Mobile App Development | December 5-6, 13-20, 2022 | Tagum New City Hall
+- Demonstrated integrating database and Ionic technologies to Tagum City developers.
 
+### DepEd Region XI | December 3, 2021 | DepEd Region XI – Davao Region
+- Demonstrated best practices and implementation techniques for features in Laravel to regional-level application developers.
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+## Education
 
+### Master of Information Technology | August 2023 - Present | Davao del Norte State College
 
-## Related
+### Bachelor of Science in Information Technology | 2014-2019 | Davao del Norte State College
+- Awarded Best in Computing Operations
 
-Here are some related projects
+## Certificates
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+### IT Specialist – JavaScript | November 28, 2022
+- Recognized for proficiency in writing and debugging JavaScript code.
+- [View Certificate](https://www.credly.com/badges/bbd2250a-a4e8-49f9-ac91-4d0fa5affeb0)
 
+### Getting Grounded on Analytics | December 22, 2021
+- Introductory course in Analytics.
+- [View Certificate](https://coursebank.ph/certificates/40d4875c8aa44ba9a543ab58ff4b6fcb)
 
-## Screenshots
+### Getting Grounded on Analytics | July 7, 2021
+- Demonstrated knowledge and skills in relational databases like Microsoft SQL Server.
+- [View Certificate](https://www.credly.com/badges/cd018411-643c-4300-9ed4-8bcfaca05bf4)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Introduction to TensorFlow for AI, ML, and Deep Learning | October 25, 2020
+- Learned best practices for using TensorFlow.
+- Trained a neural network for a computer vision application.
+- Built a basic neural network in TensorFlow.
+- [View Certificate](https://www.coursera.org/account/accomplishments/certificate/4GT7HDR56QYR)
 
+## Skills & Abilities
+- Web Development
+- PHP & MySQL
+- Next.js & React.js
+- Basic Accounting
+- Firebase
+- React Native (Mobile App Development)
 
-## Tech Stack
+## Activities and Interests
+- Jogging
+- Motorcycle rides
+- Fishing
+- Reading self-help books
 
-**Client:** React, Redux, TailwindCSS
+---
 
-**Server:** Node, Express
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
-<!--
-**frankenState/frankenState** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to adjust any details or sections as needed.
