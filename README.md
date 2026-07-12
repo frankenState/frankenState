@@ -4,7 +4,7 @@
 Serverless API architecture, database optimization, and modern frontend integration.
 
 📍 Remote | ✉️ ubayfranklou@gmail.com 
-🌐 [Portfolio](https://portfolio-frankenstates-projects.vercel.app/) | 🐙 [GitHub](https://github.com/frankenState) | 💼 [LinkedIn](https://www.linkedin.com/in/frank-lou-ubay/)
+🌐 [Portfolio](https://frankenstate.vercel.app/) | 🐙 [GitHub](https://github.com/frankenState) | 💼 [LinkedIn](https://www.linkedin.com/in/frank-lou-ubay/)
 
 ---
 
